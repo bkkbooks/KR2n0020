@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2n0020/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部十四
+  hash: sha256:1b0fee061afb4650a390a33f011206c9ad39b5a17ebb7b4f5e965df0aa8e4e0c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2n0020_WYG_000-1a, image: WYG0682/WYG0682-0037a.png}
+body:
+  text: 石刻鋪叙目録類二金石之屬提要臣等謹案石刻鋪叙二卷宋曾宏父撰宏父字幼卿自稱鳳墅逸客是書雖逺引石經及祕閣諸本而自述其所集鳯墅帖特詳凡所徴托皆有典則而藏書家見者頗稀國朝初年朱彛尊得射瀆抄本自為之跋有珊瑚木難之喻此本末有此跋及彛尊名字二印蓋猶其手迹然跋中謂宏父名惇以字行則未免舛誤考宋有兩曾宏父其一名惇字宏父為曾布之孫曾紆之子後人避寧宗諱多以字行遂與此宏父混而為一實則與作此書者各一人也跋又謂陳思寶刻叢編援据頗廣顧不及此考鳯墅帖刻於嘉熙淳祐間鋪叙諸石刻斷手於戊申仲春亦在淳祐八年若叢編則成於紹定辛卯實理宗即位之七年相距凡十七八年何由預見曾刻彛尊亦何誤記也近厲鶚等刻南宋雜事詩直題此書為曾惇撰是承彛尊之訛而失之矣乾隆四十二年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:04202d59395d8bb98bac47578ab6fe935579c3ae1f0adf7f647160c81cba5ae6
+metadata:
+  title: 石刻鋪叙
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:54:28.746022'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2n0020/KR2n0020_000.txt
+hash: sha256:03d52a0df99b1f0d0813bda353d4eb01f07057fa671a394dfd1eb47f48a137c6
